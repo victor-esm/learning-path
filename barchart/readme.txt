@@ -1,0 +1,1 @@
+Barchart for training purposes.
