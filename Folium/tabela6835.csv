@@ -1,0 +1,51 @@
+﻿"Tabela 6835 - Indicador 6.2.1 - Proporção da população que utiliza (a) serviços de saneamento gerenciados de forma segura e (b) instalações para lavagem das mãos com água e sabão"
+"Variável - Proporção da população que utiliza serviços de esgotamento sanitário geridos de forma segura, Incluindo instalações para lavar as mãos com água e sabão"
+"Nível";"Cód.";"Brasil e Unidade da Federação";"Ano"
+"Nível";"Cód.";"Brasil e Unidade da Federação";"2017";;"2018"
+"BR";"1";"Brasil";"59,5";"%";"60,0";"%"
+"UF";"11";"Rondônia";"43,1";"%";"42,9";"%"
+"UF";"12";"Acre";"46,8";"%";"49,7";"%"
+"UF";"13";"Amazonas";"50,9";"%";"50,1";"%"
+"UF";"14";"Roraima";"54,0";"%";"60,2";"%"
+"UF";"15";"Pará";"32,7";"%";"33,0";"%"
+"UF";"16";"Amapá";"38,8";"%";"39,9";"%"
+"UF";"17";"Tocantins";"56,3";"%";"55,2";"%"
+"UF";"21";"Maranhão";"29,9";"%";"31,6";"%"
+"UF";"22";"Piauí";"39,0";"%";"38,1";"%"
+"UF";"23";"Ceará";"59,1";"%";"58,4";"%"
+"UF";"24";"Rio Grande do Norte";"53,0";"%";"51,8";"%"
+"UF";"25";"Paraíba";"55,3";"%";"60,1";"%"
+"UF";"26";"Pernambuco";"54,4";"%";"55,9";"%"
+"UF";"27";"Alagoas";"51,3";"%";"54,1";"%"
+"UF";"28";"Sergipe";"67,3";"%";"65,0";"%"
+"UF";"29";"Bahia";"61,8";"%";"62,9";"%"
+"UF";"31";"Minas Gerais";"39,5";"%";"40,0";"%"
+"UF";"32";"Espírito Santo";"64,5";"%";"65,1";"%"
+"UF";"33";"Rio de Janeiro";"59,4";"%";"56,4";"%"
+"UF";"35";"São Paulo";"75,7";"%";"76,6";"%"
+"UF";"41";"Paraná";"81,2";"%";"80,9";"%"
+"UF";"42";"Santa Catarina";"67,7";"%";"72,4";"%"
+"UF";"43";"Rio Grande do Sul";"66,3";"%";"68,7";"%"
+"UF";"50";"Mato Grosso do Sul";"64,4";"%";"68,4";"%"
+"UF";"51";"Mato Grosso";"51,9";"%";"55,7";"%"
+"UF";"52";"Goiás";"64,6";"%";"66,3";"%"
+"UF";"53";"Distrito Federal";"90,5";"%";"91,8";"%"
+"Fonte: SNIS, Ministério do Desenvolvimento Regional (2016) e PNADC, IBGE (2016)"
+
+""
+"Legenda"
+"Símbolo";"Significado"
+"-";"Zero absoluto, não resultante de um cálculo ou arredondamento.
+Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
+"0";"Zero resultante de um cálculo ou arredondamento.
+Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
+Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
+"X";"Valor inibido para não identificar o informante.
+Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
+"..";"Valor não se aplica.
+Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
+"...";"Valor não disponível.
+Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
+"A a Z
+(exceto X)";"Significa uma faixa de valores. Varia em função da tabela (se for o caso).
+Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)"
