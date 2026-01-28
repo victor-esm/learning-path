@@ -14,8 +14,7 @@ df.drop(columns=['index', 'Nível', '2017', '2018'], inplace=True)
 df.drop(labels=0, axis=0, inplace=True)
 # use meaningful names
 df.rename(columns={'Cód.':'Estado', 'Brasil e Unidade da Federação':'2017', 'Unnamed: 4': '2018'}, inplace=True)
-print(df.head(10))
-print(df.info())
+
 # create specific frames for each year
 data_from_2017 = df.loc[:,['Estado', '2017']]
 data_from_2018 = df.loc[:,['Estado', '2018']]
